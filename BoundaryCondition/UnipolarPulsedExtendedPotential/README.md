@@ -1,1 +1,1 @@
-
+Extract scalar value from a algorithm that couples power input with voltage input depending on the power within the plasma assuming no losses in power transfer in order for plasmaFOAM to be able to obtain a boundary condition value
