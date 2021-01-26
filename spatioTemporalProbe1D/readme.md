@@ -1,1 +1,1 @@
-
+Generator of .DAT files correlating position and time of plasma properties. Currently it only works for 1D and is tailored towards Argon cases done for a paper, however, a more generalized version is expected to be created in the future 
