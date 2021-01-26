@@ -1,1 +1,1 @@
-
+Modification of the TDAC algoritm tailored towards plasmaFOAM. Currently, the algorithm is only capable of reading CHEMKIN II files althought a generalized version will be done in order to read chemistry files from plasmaFOAM
